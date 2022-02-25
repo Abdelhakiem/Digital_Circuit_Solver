@@ -1,0 +1,7 @@
+AND A B D
+OR C D E
+SET A 1
+SET B 0
+SET C 1
+SIM
+OUT ALL
